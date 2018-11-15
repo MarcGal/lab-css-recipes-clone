@@ -1,0 +1,16 @@
+
+/* ----------------------- HEADER ------------------------------- */
+
+header {
+  background-image: url(images/apple-pie.jpg);
+  background-size: cover;
+  height: 700px;
+  color: white;
+}
+
+header h1{
+  position: relative;
+  left: 500px;
+  top: 350px;
+  font-size: 70px;
+}
