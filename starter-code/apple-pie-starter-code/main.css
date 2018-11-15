@@ -22,6 +22,17 @@ header h1 {
 
 /* ----------------------- SECTION 1 ------------------------------- */
 
+.ingredients h1 {
+  display: inline-block;
+  position: relative;
+  left: 350px;
+}
+
+.ingredients ul {
+  position: relative;
+  left: 350px;
+}
+
 .pieIntro {
   text-align: center;
 }
@@ -36,6 +47,18 @@ header h1 {
 
 
 /* ----------------------- SECTION 2------------------------------- */
+
+.directions h1 {
+  display: inline-block;
+  position: relative;
+  left: 350px;
+}
+
+.directions ol {
+  position: relative;
+  left: 350px;
+}
+
 
 .cooking-info { 
   position: relative;
