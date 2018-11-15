@@ -1,3 +1,6 @@
+body {
+  margin:0px;
+}
 
 /* ----------------------- HEADER ------------------------------- */
 
@@ -8,9 +11,42 @@ header {
   color: white;
 }
 
-header h1{
-  position: relative;
-  left: 500px;
-  top: 350px;
+header h1 {
+
+  text-align: center;
+  line-height: 700px;
   font-size: 70px;
 }
+
+
+
+/* ----------------------- SECTION 1 ------------------------------- */
+
+.pieIntro {
+  text-align: center;
+}
+
+.recipe-info {
+  position: relative;
+  left: 350px;
+}
+
+
+
+
+
+/* ----------------------- SECTION 2------------------------------- */
+
+.cooking-info { 
+  position: relative;
+  left: 350px;
+}
+
+
+
+
+
+
+
+
+/* ----------------------- SECTION 3 ------------------------------- */
